@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.malchustv" name="MALCHUS TV REPOSITORY" version="1.0.0" provider-name="MALCHUS TV">
+	<extension point="xbmc.addon.repository" name="MALCHUS TV REPOSITORY">
+		<info compressed="false">http://raw.github.com/MALCHUSTVKODI/malchustvrepo/master/addons.xml</info>
+		<checksum>http://raw.github.com/MALCHUSTVKODI/malchustvrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/MALCHUSTVKODI/malchustvrepo/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>MALCHUS TV REPOSITORY</summary>
+		<description>INSTALL ALL OF MALCHUS TV OFFICIAL ADD ONS</description>
+		<disclaimer>The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
